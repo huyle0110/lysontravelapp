@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../logo.svg';
-import './App.css';
+import './App.scss';
 import './HomeHeader';
 import HomeHeader from './HomeHeader';
 import FooterHeader from './HomeFooter';
